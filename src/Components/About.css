@@ -1,0 +1,11 @@
+.about-page {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+  }
+  
+  .about-page h2 {
+    color: #00203FFF;
+  }
+  

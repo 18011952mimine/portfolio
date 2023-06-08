@@ -1,0 +1,29 @@
+.contact-form {
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  }
+  
+  .contact-form h2 {
+    color: #00203FFF;
+  }
+  
+  .contact-form .form-control {
+    border: none;
+    border-bottom: 2px solid #00203FFF;
+    border-radius: 0;
+  }
+  
+  .contact-form .btn {
+    background-color: #00203FFF;
+    color: #ADEFD1FF;
+  }
+  
+  .contact-form .btn:hover {
+    background-color: #ADEFD1FF;
+    color: #00203FFF;
+  }
+  
